@@ -1,6 +1,6 @@
 
 # Netflix-Movies
-Please Refer the Jupyter Notebook for step by step analysis
+_Please Refer the Jupyter Notebook for step by step analysis_
 Investigating the change of duration of movies on Netflix using Pandas and Matplotlib library.
 Steps:
 1. Creating a pandas data frame.
@@ -11,8 +11,8 @@ Steps:
 6. Further filtering for data such as: duration, non-feature films etc.
 7. Coloring the plot.
 
-FINAL RESULT:
-![image](https://user-images.githubusercontent.com/92806875/173198622-6edda97c-5149-4054-b9a9-69d423f569fc.png)
+                                                              **FINAL RESULT:**
+                ![image](https://user-images.githubusercontent.com/92806875/173198622-6edda97c-5149-4054-b9a9-69d423f569fc.png)
 
 
 Reference: DataCamp.com
